@@ -14,8 +14,8 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 - **Day 3** : Working with sudo, uptime, timezones, changing your hostname
 - **Day 4** : Installing software, exploring the file structure: Using 'apt' to find and install sotware. Use of mc to explore the filesystem. Looking at the contents of: /etc/passwd, /etc/ssh/sshd_config and /var/log/auth.log
 - **Day 5** : More or less...: Using more, less and navigating in these. Dotfiles, history, tab completion, and using the nano txt editor
-- **Day 6** : Editing with "vim": Learning vim, the minimal knowledge, but also via vimtutor
-- **Day 7** :
+- **Day 6** : Editing with "vim": Learning vim, the minimal knowledge
+- **Day 7** : Vim again : tutorial with vimtutor
 - **Day 8** :
 - **Day 9** :
 - **Day 10** :
