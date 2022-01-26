@@ -16,7 +16,7 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 - **Day 5** : More or less...: Using more, less and navigating in these. Dotfiles, history, tab completion, and using the nano txt editor
 - **Day 6** : Editing with "vim": Learning vim, the minimal knowledge
 - **Day 7** : Vim again : tutorial with vimtutor
-- **Day 8** :
+- **Day 8** : The server and its services: Installing Apache2, stopping and starting, altering the content, reading logs
 - **Day 9** :
 - **Day 10** :
 
