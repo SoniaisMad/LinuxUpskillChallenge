@@ -20,7 +20,7 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 - **Day 9** : The infamous "grep" and other text processors: Hands-on with text tools like grep, cat, more, less, cut, awk and tail - and piping of course. (and a wave to awk and sed)
 - **Day 10** : Diving into networking: Looking at open ports with with ss, and a nod to netstat, install nmap and test. Install ufw, set up, enable and test etc. Discuss security resonsibilities as the sysadmin.
 - **Day 11** : Getting the computer to do your work for you: Covering cron, at, and systemd timers
-- **Day 12** :
+- **Day 12** : Finding things...: Finding things with: locate, find, grep, which
 - **Day 13** :
 - **Day 14** :
 - **Day 15** :
