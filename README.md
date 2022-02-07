@@ -23,4 +23,4 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 - **Day 12** : Finding things...: Finding things with: locate, find, grep, which
 - **Day 13** : Transfering files: SFTP, the technology, clients, and copying up and down
 - **Day 14** : Users and Groups
-- **Day 15** :
+- **Day 15** : Deeper into repositories...: Repositories in more detail, how to enable "Multiverse", the role of PPAs in Ubuntu, enabling and installing from them
