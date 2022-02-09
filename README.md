@@ -25,3 +25,5 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 - **Day 14** : Users and Groups
 - **Day 15** : Deeper into repositories...: Repositories in more detail, how to enable "Multiverse", the role of PPAs in Ubuntu, enabling and installing from them
 - **Day 16** : Archiving and compressing: Understanding and using tar and gzip
+- **Day 17** : Build from the source: Installing from source. Discussion, using wget to get a tarball, tar to extract and then configure, make and install. Discussion of security, maintenance issues.
+- **Day 18** : Log rotation: Log management and rotation, logrotate
