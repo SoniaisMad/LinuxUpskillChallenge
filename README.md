@@ -27,3 +27,4 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 - **Day 16** : Archiving and compressing: Understanding and using tar and gzip
 - **Day 17** : Build from the source: Installing from source. Discussion, using wget to get a tarball, tar to extract and then configure, make and install. Discussion of security, maintenance issues.
 - **Day 18** : Log rotation: Log management and rotation, logrotate
+- **Day 19** :  Inodes, symlinks and other shortcuts: Inodes, hard links symlinks and stat
