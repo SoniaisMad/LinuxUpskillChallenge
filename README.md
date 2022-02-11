@@ -5,7 +5,7 @@ This repository documents my experience with the [Linux Upskill Challenge](https
 The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands-on, CLI-driven educational exercise aimed at "those who aspire to get Linux-related jobs in the industry." It serves as an introduction to Linux server administration.
 
 ## What's the status? 🚦
-![statusbadge](https://img.shields.io/badge/status-in--progress-orange?style=for-the-badge)
+![statusbadge](https://img.shields.io/badge/status-finished-green?style=for-the-badge)
 
 ## What did I do? ⚙️
 - **Day 0** : Creating Your Own Server => set up an AWS VPS on LightSail.
@@ -28,3 +28,4 @@ The [The Linux Upskill Challenge](https://linuxupskillchallenge.org/) is a hands
 - **Day 17** : Build from the source: Installing from source. Discussion, using wget to get a tarball, tar to extract and then configure, make and install. Discussion of security, maintenance issues.
 - **Day 18** : Log rotation: Log management and rotation, logrotate
 - **Day 19** :  Inodes, symlinks and other shortcuts: Inodes, hard links symlinks and stat
+- **Day 20** - Scripting: Understanding how scripting work in Linux, the shebang, permissons and $PATH
